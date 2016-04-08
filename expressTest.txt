@@ -1,0 +1,12 @@
+[30m[47mApplication loaded using the "test" environment configuration[49m[39m
+Export express
+Application started on port 3000
+
+[0m[0m
+[0m  Core API Unit Tests:[0m
+[2K[0G  [32m  ✓[0m[90m should get response on / request[0m[33m (50ms)[0m
+[2K[0G  [32m  ✓[0m[90m should get response on / with Ok core[0m
+
+
+[92m [0m[32m 2 passing[0m[90m (76ms)[0m
+
